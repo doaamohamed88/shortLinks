@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Minimal global tweaks.
+ * The UI styling is handled via Tailwind classes inside components.
+ */
+
+html {
+  direction: rtl;
+}
+
